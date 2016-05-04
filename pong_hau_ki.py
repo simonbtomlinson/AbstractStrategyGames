@@ -1,4 +1,4 @@
-from negamax_lookahead_version.rendering import render_to_png
+from rendering import render_to_png
 
 from abstract_game import AbstractGame
 

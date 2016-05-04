@@ -1,4 +1,4 @@
-from negamax_lookahead_version.rendering import render_to_png
+from rendering import render_to_png
 
 from pong_hau_ki import PongHauKiGame, EMPTY_SPACE, PLAYER_1, PLAYER_2
 
